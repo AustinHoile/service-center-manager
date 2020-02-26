@@ -1,0 +1,11 @@
+F:\Documents\C# Projects\Final Project\ServiceCenterManager\ServiceCenterManager\ServiceCenterManager\bin\Debug\ServiceCenterManager.exe
+F:\Documents\C# Projects\Final Project\ServiceCenterManager\ServiceCenterManager\ServiceCenterManager\bin\Debug\ServiceCenterManager.pdb
+F:\Documents\C# Projects\Final Project\ServiceCenterManager\ServiceCenterManager\ServiceCenterManager\bin\Debug\ServiceCenterManager.exe.config
+F:\Documents\C# Projects\Final Project\ServiceCenterManager\ServiceCenterManager\ServiceCenterManager\obj\Debug\ServiceCenterManager.frm_login.resources
+F:\Documents\C# Projects\Final Project\ServiceCenterManager\ServiceCenterManager\ServiceCenterManager\obj\Debug\ServiceCenterManager.Properties.Resources.resources
+F:\Documents\C# Projects\Final Project\ServiceCenterManager\ServiceCenterManager\ServiceCenterManager\obj\Debug\ServiceCenterManager.ServiceManager.resources
+F:\Documents\C# Projects\Final Project\ServiceCenterManager\ServiceCenterManager\ServiceCenterManager\obj\Debug\ServiceCenterManager.csproj.GenerateResource.cache
+F:\Documents\C# Projects\Final Project\ServiceCenterManager\ServiceCenterManager\ServiceCenterManager\obj\Debug\ServiceCenterManager.csproj.CoreCompileInputs.cache
+F:\Documents\C# Projects\Final Project\ServiceCenterManager\ServiceCenterManager\ServiceCenterManager\obj\Debug\ServiceCenterManager.exe
+F:\Documents\C# Projects\Final Project\ServiceCenterManager\ServiceCenterManager\ServiceCenterManager\obj\Debug\ServiceCenterManager.pdb
+F:\Documents\C# Projects\Final Project\ServiceCenterManager\ServiceCenterManager\ServiceCenterManager\obj\Debug\ServiceCenterManager.csprojAssemblyReference.cache
